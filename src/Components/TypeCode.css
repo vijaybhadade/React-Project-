@@ -1,0 +1,29 @@
+.Show-More{
+    margin-top: 1rem;
+    height: 3rem;
+    width: 100x;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.Show-More:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+
+.Show-Less
+{   
+    margin-top: 1rem;
+    margin-left: 1rem; 
+    width: 130px;
+     height: 3rem;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.Show-Less:hover{
+    cursor: pointer;
+    background-color: rgb(100, 14, 76);
+    color: white;
+}
+
